@@ -1,5 +1,5 @@
 //This code is taken from http://openglbook.com/chapter-1-getting-started.html
-// This code creates an empty window and rendering content to be used for drawing 
+// This code creates an empty rendering window 
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
